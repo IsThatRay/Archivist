@@ -1,0 +1,5 @@
+discord.py
+pillow
+markdown-pdf
+requests
+aiohttp[speedups]
