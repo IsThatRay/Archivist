@@ -3,3 +3,4 @@ assets/Old_*
 secret.json
 test.py
 Archivist.zip
+__pycache__
