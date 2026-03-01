@@ -36,3 +36,7 @@ end_timestamp: Sets a timestamp where you want archiving to stop.
 Timestamps are formatted using the discord timestamp notation <t_{unix_timestamp}>
 
 Archives will be saved in the "archives" folder in the running directory.
+
+## Credits
+
+Thank you to [TahitanKio](https://bsky.app/profile/tahitankio.bsky.social) for the lovely assets used in the bot!
